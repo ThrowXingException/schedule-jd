@@ -23,7 +23,8 @@
 
 ### 获取 Cookie
 
-电脑打网页开 https://bean.m.jd.com ，打开调试模式（F12），刷新页面，然后 复制 Cookie
+电脑打网页开 https://home.m.jd.com/myJd/home.action ，打开调试模式（F12），刷新页面，然后 复制 Cookie
+在 TXT 文本里面找到 pt_pin 和 pt_key 两个参数，其它的全部删掉
 
 ![](https://gitee.com/xiaoxiunique/picgo-image/raw/master/atips/20201231175239.png)
 
